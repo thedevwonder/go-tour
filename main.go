@@ -1,8 +1,9 @@
 package main
 
-import "tutorials/basics"
+import "tutorials/slices"
+//import "tutorials/basics"
 
 func main() {
   //executing main function
-  basics.StackDefer()
+  slices.DeclareStructLit()
 }
