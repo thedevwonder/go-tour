@@ -5,5 +5,5 @@ import "tutorials/slices"
 
 func main() {
   //executing main function
-  slices.DeclareStructLit()
+  slices.UseShortRange()
 }
